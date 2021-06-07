@@ -1,6 +1,8 @@
 # thermopen
 An infrared temperature sensor, the size of a pen, packed with functionnalities.
 
+====3D printings tips====
+
 The "dessous" and the "couvercle" are the 2 parts 3D printed.
 
 For better result, please uses theses setting on the 3D printer:
