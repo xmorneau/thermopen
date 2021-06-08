@@ -1,1 +1,21 @@
+The Thermometer Pen is the result of my final "Cegep" project in physics that took place from January to March 2021.
 
+Also called the ThermoPen, the goal of this project was to create a portable thermometer usable for precise uses case. More particularly, is was created to inspect overheating electronic parts on PCB and for general troubleshooting. At my school, the ThermoPen was a highly requested product, as multiples teachers who get in touch with electronics needs a tool for fast troubleshooting with projects from students or themselves.
+
+So how exactly this weird pen works? Is it only a simple temperature infrared sensor glued onto a pen?
+
+To be clear, the pen features an Ir sensor who convert infrarouge emmision from objects into an electric signal which can be translated to a temperature by a micro-controllers. In that way, I made a PCB which integrates an Atmega 328P (same controller as the Arduino Uno/Nano) to control inputs and outputs from button and sensor.
+
+In its simplest expression, its an Ir sensor that reads temperature. What make the ThermoPen different and original from this basic concept is that it includes features extremely usefull for the user, in a small and slim form-factor.
+
+The ThermoPen features:
+
+- An OLED screen that displays objects temperature, ambiant temperature, maximum and minimum object temperature
+
+-Audio feedback
+
+-Press-to-activate button
+
+-Rechargeable Li-Ion battery circuit
+
+-Laser diode acting as a pointer
