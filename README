@@ -1,6 +1,10 @@
 _______________________________________________________________________________________________________________
 To download files, please select the type of documents our are looking for in the selection box. You will find:
-- 
+- 3D-Models : .STL files of the case to be 3D printed.
+- Arduino-Code : Arduino program I developped to program on the device.
+- BOM : Bills of materials of all electronics components to buy.
+- KiCad Project: A .zip file containing my KiCad projet for developping the PCB.
+- KiCad Gerber: A shortcut that includes all required files needed by the PCB manufacturers.
 _______________________________________________________________________________________________________________
 
 The Thermometer Pen is the result of my final "Cegep" project in physics that took place from January to March 2021.
